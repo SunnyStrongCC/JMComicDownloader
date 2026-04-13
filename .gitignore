@@ -1,0 +1,12 @@
+# 忽略打包生成的文件夹
+build/
+dist/
+*.spec
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略个人配置文件或临时文件
+*.yml
+jm_cfg_*
